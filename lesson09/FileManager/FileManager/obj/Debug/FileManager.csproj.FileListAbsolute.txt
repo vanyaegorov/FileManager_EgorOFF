@@ -5,3 +5,10 @@ C:\Users\enuser\Desktop\Domashnie_zadaniya\lesson09\FileManager\FileManager\obj\
 C:\Users\enuser\Desktop\Domashnie_zadaniya\lesson09\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
 C:\Users\enuser\Desktop\Domashnie_zadaniya\lesson09\FileManager\FileManager\obj\Debug\FileManager.exe
 C:\Users\enuser\Desktop\Domashnie_zadaniya\lesson09\FileManager\FileManager\obj\Debug\FileManager.pdb
+C:\Users\enuser\Desktop\FileManager_EgorOFF\lesson09\FileManager\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\enuser\Desktop\FileManager_EgorOFF\lesson09\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\Users\enuser\Desktop\FileManager_EgorOFF\lesson09\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\Users\enuser\Desktop\FileManager_EgorOFF\lesson09\FileManager\FileManager\obj\Debug\FileManager.csproj.AssemblyReference.cache
+C:\Users\enuser\Desktop\FileManager_EgorOFF\lesson09\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\enuser\Desktop\FileManager_EgorOFF\lesson09\FileManager\FileManager\obj\Debug\FileManager.exe
+C:\Users\enuser\Desktop\FileManager_EgorOFF\lesson09\FileManager\FileManager\obj\Debug\FileManager.pdb
