@@ -1,0 +1,7 @@
+C:\Users\enuser\Desktop\FileManager_EgorOFF\lesson09\FileManager\FileManager\bin\Release\FileManager.exe.config
+C:\Users\enuser\Desktop\FileManager_EgorOFF\lesson09\FileManager\FileManager\bin\Release\FileManager.exe
+C:\Users\enuser\Desktop\FileManager_EgorOFF\lesson09\FileManager\FileManager\bin\Release\FileManager.pdb
+C:\Users\enuser\Desktop\FileManager_EgorOFF\lesson09\FileManager\FileManager\obj\Release\FileManager.csproj.AssemblyReference.cache
+C:\Users\enuser\Desktop\FileManager_EgorOFF\lesson09\FileManager\FileManager\obj\Release\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\enuser\Desktop\FileManager_EgorOFF\lesson09\FileManager\FileManager\obj\Release\FileManager.exe
+C:\Users\enuser\Desktop\FileManager_EgorOFF\lesson09\FileManager\FileManager\obj\Release\FileManager.pdb
